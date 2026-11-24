@@ -6,7 +6,7 @@
 
 import os
 
-SENTENCE = "Picture every post office and library on earth joined by one road, so a letter reaches any town in a blink and any book stands open on your own table, day or night."
+SENTENCE = "Picture every post office and library on earth joined by one road, so a letter reaches any town faster than any horse and any book stands open on your own table, day or night."
 
 
 def main() -> None:
